@@ -3,6 +3,9 @@
 
 .DS_Store
 
+day 2/scraper-env/
+day 2/.vscode
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
